@@ -1,0 +1,2 @@
+npm WARN deprecated bcrypt@1.0.3: bcrypt < v2.0.0 is susceptible to bcrypt wrap-around bug. Upgrade to bcrypt >= v2.0.0 for improved support for newer bcrypt hashes
+npm WARN deprecated uws@8.14.1: stop using this version
